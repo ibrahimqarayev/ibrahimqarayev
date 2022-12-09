@@ -9,5 +9,4 @@
 - ⚡ Fun fact: ...
 -->
 <!-- [![Ibrahim's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimqarayev)](https://github.com/ibrahimqarayev/github-readme-stats) -->
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimqarayev)](https://github.com/ibrahimqarayev/github-readme-stats) -->
