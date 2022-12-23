@@ -11,3 +11,4 @@
 
 <!-- [![Ibrahim's github stats](https://github-readme-stats.vercel.app/api?username=ibrahimqarayev)](https://github.com/ibrahimqarayev/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimqarayev)](https://github.com/ibrahimqarayev/github-readme-stats) -->
+𝓦𝓻𝓲𝓽𝓮 𝓸𝓷𝓬𝓮 , 𝓻𝓾𝓷 𝓪𝓷𝔂𝔀𝓱𝓮𝓻𝓮
