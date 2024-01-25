@@ -19,4 +19,4 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ibrahim;I'm+from+Azerbaijan;I'm+a+Junior+Java+Developer;Be+Welcome!+ツ)
 
-![Snake animation](https://github.com/JeffersonRPM/JeffersonRPM/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]
