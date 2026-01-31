@@ -17,6 +17,6 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a> -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ibrahim;I'm+from+Azerbaijan;I'm+a+Junior+Java+Developer;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ibrahim;I'm+from+Azerbaijan;I'm+a+Java+Developer;Be+Welcome!+ツ)
 
 ![Snake animation](https://raw.githubusercontent.com/JeffersonRPM/JeffersonRPM/2bdbb286fbafba5bcf3c38aa0b69aa2876c790c6/github-contribution-grid-snake.svg)
