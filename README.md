@@ -30,7 +30,7 @@ I am a Java Backend Developer passionate about building scalable, secure, and ma
 An open-source community where developers collaborate to learn Java and Spring Boot by building real-world backend applications together.
 
 - **Tech Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, Maven, Git, MySQL, PostgreSQL, Oracle Database, Liquibase, Redis, Docker
-- **Repository:** https://github.com/ibrahimqarayev/OpenSpringLab
+- **Repository:** https://github.com/ibrahimqarayev/open-spring-lab
 - **Why it matters:** Creator and maintainer of an active open-source learning community with 10+ contributors. I organize development tasks, review pull requests, mentor contributors, and promote collaborative backend development through real-world projects and GitHub workflows.
 
 ---
