@@ -1,6 +1,6 @@
 <h1>Hi There, I'm Ibrahim Qarayev <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I am a Java Backend Developer passionate about building scalable, secure, and maintainable applications. I enjoy designing RESTful APIs, working with the Spring ecosystem, and solving real-world problems through clean and efficient code. I'm always exploring new backend technologies and continuously improving my software engineering skills.
+I build RESTful APIs and backend services with Spring Boot, focusing on clean, maintainable code. I like working on real-world problems, from database design to security.
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
